@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+mlruns/
+mlruns
 # Distribution / packaging
 .Python
 build/
@@ -81,7 +83,9 @@ target/
 # IPython
 profile_default/
 ipython_config.py
-mlruns/
+
+# Ignore MLflow runs
+MLFlow/mlruns
 
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is
