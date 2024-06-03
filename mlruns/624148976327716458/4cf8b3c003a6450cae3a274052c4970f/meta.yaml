@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/renatomota/Desktop/MLFlow/mlruns/624148976327716458/4cf8b3c003a6450cae3a274052c4970f/artifacts
+end_time: 1717377002012
+entry_point_name: ''
+experiment_id: '624148976327716458'
+lifecycle_stage: active
+run_id: 4cf8b3c003a6450cae3a274052c4970f
+run_name: exultant-sponge-80
+run_uuid: 4cf8b3c003a6450cae3a274052c4970f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717377000715
+status: 3
+tags: []
+user_id: renatomota

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/renatomota/Desktop/MLFlow/mlruns/624148976327716458/41bbec2452704c1da40dfede0632f0d8/artifacts
+end_time: 1717377003703
+entry_point_name: ''
+experiment_id: '624148976327716458'
+lifecycle_stage: active
+run_id: 41bbec2452704c1da40dfede0632f0d8
+run_name: awesome-stoat-767
+run_uuid: 41bbec2452704c1da40dfede0632f0d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717377002015
+status: 3
+tags: []
+user_id: renatomota

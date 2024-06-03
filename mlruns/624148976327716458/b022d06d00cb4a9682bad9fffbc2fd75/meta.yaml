@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/renatomota/Desktop/MLFlow/mlruns/624148976327716458/b022d06d00cb4a9682bad9fffbc2fd75/artifacts
+end_time: 1717376992097
+entry_point_name: ''
+experiment_id: '624148976327716458'
+lifecycle_stage: active
+run_id: b022d06d00cb4a9682bad9fffbc2fd75
+run_name: flawless-foal-169
+run_uuid: b022d06d00cb4a9682bad9fffbc2fd75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717376990840
+status: 3
+tags: []
+user_id: renatomota

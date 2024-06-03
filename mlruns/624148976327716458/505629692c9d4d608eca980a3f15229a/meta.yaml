@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/renatomota/Desktop/MLFlow/mlruns/624148976327716458/505629692c9d4d608eca980a3f15229a/artifacts
+end_time: 1717376988333
+entry_point_name: ''
+experiment_id: '624148976327716458'
+lifecycle_stage: active
+run_id: 505629692c9d4d608eca980a3f15229a
+run_name: omniscient-skunk-673
+run_uuid: 505629692c9d4d608eca980a3f15229a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717376986514
+status: 3
+tags: []
+user_id: renatomota

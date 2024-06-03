@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/renatomota/Desktop/MLFlow/mlruns/624148976327716458/45612da8ae384f8c89ce6acad5ff053c/artifacts
+end_time: 1717377007834
+entry_point_name: ''
+experiment_id: '624148976327716458'
+lifecycle_stage: active
+run_id: 45612da8ae384f8c89ce6acad5ff053c
+run_name: brawny-shoat-652
+run_uuid: 45612da8ae384f8c89ce6acad5ff053c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717377005668
+status: 3
+tags: []
+user_id: renatomota

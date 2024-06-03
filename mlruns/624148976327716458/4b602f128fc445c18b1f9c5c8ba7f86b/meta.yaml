@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/renatomota/Desktop/MLFlow/mlruns/624148976327716458/4b602f128fc445c18b1f9c5c8ba7f86b/artifacts
+end_time: 1717376636317
+entry_point_name: ''
+experiment_id: '624148976327716458'
+lifecycle_stage: active
+run_id: 4b602f128fc445c18b1f9c5c8ba7f86b
+run_name: painted-sow-996
+run_uuid: 4b602f128fc445c18b1f9c5c8ba7f86b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717376636253
+status: 4
+tags: []
+user_id: renatomota

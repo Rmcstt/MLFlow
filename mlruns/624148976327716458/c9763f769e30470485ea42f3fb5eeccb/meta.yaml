@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/renatomota/Desktop/MLFlow/mlruns/624148976327716458/c9763f769e30470485ea42f3fb5eeccb/artifacts
+end_time: 1717376225181
+entry_point_name: ''
+experiment_id: '624148976327716458'
+lifecycle_stage: active
+run_id: c9763f769e30470485ea42f3fb5eeccb
+run_name: bustling-dove-328
+run_uuid: c9763f769e30470485ea42f3fb5eeccb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717376225128
+status: 4
+tags: []
+user_id: renatomota

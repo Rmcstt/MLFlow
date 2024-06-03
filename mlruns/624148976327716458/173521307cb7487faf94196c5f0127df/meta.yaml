@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/renatomota/Desktop/MLFlow/mlruns/624148976327716458/173521307cb7487faf94196c5f0127df/artifacts
+end_time: 1717376984866
+entry_point_name: ''
+experiment_id: '624148976327716458'
+lifecycle_stage: active
+run_id: 173521307cb7487faf94196c5f0127df
+run_name: clumsy-grub-757
+run_uuid: 173521307cb7487faf94196c5f0127df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717376983659
+status: 3
+tags: []
+user_id: renatomota

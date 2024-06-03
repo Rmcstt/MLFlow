@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/renatomota/Desktop/MLFlow/mlruns/624148976327716458/2a90808f16bd4e009ca987b0522b67cd/artifacts
+end_time: 1717376430982
+entry_point_name: ''
+experiment_id: '624148976327716458'
+lifecycle_stage: active
+run_id: 2a90808f16bd4e009ca987b0522b67cd
+run_name: persistent-loon-634
+run_uuid: 2a90808f16bd4e009ca987b0522b67cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717376430115
+status: 4
+tags: []
+user_id: renatomota
